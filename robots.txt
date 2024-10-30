@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: /login
 
-Sitemap: https://lexiehewi.github.io/zp533/sitemap_index.txt
+Sitemap: https://lexiehewis.github.io/zp533/sitemap_index.txt
