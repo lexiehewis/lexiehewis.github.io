@@ -1,4 +1,11 @@
-User-Agent: *
-Disallow: /login
+User-agent:*
+Allow:/
 
-Sitemap: https://lexiehewis.github.io/zp533/sitemap_index.txt
+Sitemap: https://lexiehewis.github.io/lexiehewis_github_io_zp533_1.txt
+Sitemap: https://lexiehewis.github.io/lexiehewis_github_io_zp533_13.txt
+Sitemap: https://lexiehewis.github.io/lexiehewis_github_io_zp533_17.txt
+Sitemap: https://lexiehewis.github.io/lexiehewis_github_io_zp533_20.txt
+Sitemap: https://lexiehewis.github.io/lexiehewis_github_io_zp533_24.txt
+Sitemap: https://lexiehewis.github.io/lexiehewis_github_io_zp533_28.txt
+Sitemap: https://lexiehewis.github.io/lexiehewis_github_io_zp533_5.txt
+Sitemap: https://lexiehewis.github.io/lexiehewis_github_io_zp533_9.txt
